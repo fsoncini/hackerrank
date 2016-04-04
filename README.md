@@ -36,7 +36,7 @@ int main() {
 
 
 Input and Output
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -56,10 +56,10 @@ int main() {
     
     return 0;
 }
-
+```
 
 Basic Data Types
-
+```cpp
 #include <iostream>
 #include <cstdio>
 using namespace std;
@@ -79,14 +79,11 @@ int main() {
     
     return 0;
 }
-
-
-
-
-
+```
 
 Conditional Statements
 
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -134,10 +131,11 @@ int main() {
     }
    return 0;
 }
-
+```
 
 For Loop
 
+```cpp
 #include <iostream>
 #include <cstdio>
 using namespace std;
@@ -193,10 +191,11 @@ int main() {
     
         return 0;
 }
-
+```
 
 Functions
 
+```cpp
 #include <iostream>
 #include <cstdio>
 using namespace std;
@@ -224,7 +223,6 @@ int max_of_four(int a, int b, int c, int d) {
     return max;
 }
 
-
 int main() {
     int a, b, c, d;
     scanf("%d %d %d %d", &a, &b, &c, &d);
@@ -233,10 +231,11 @@ int main() {
     
     return 0;
 }
-
+```
 
 Pointer
 
+```cpp
 #include <stdio.h>
 #include <math.h>
 
@@ -265,11 +264,12 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 Arrays Introduction
 
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -298,23 +298,10 @@ int main() {
     return 0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 Operator Overloading
 
+```cpp
 class Matrix {
     public:
         vector<vector<int>> a;
@@ -329,10 +316,11 @@ class Matrix {
           }
     
 };
-
+```
 
 Variable Sized Arrays
 
+```cpp
     //number of integer sequences
     int n = 0;
     //number of queries 
@@ -362,9 +350,10 @@ Variable Sized Arrays
 	return 0;
 
 }    
-
+```
 Overload Operators
 
+```cpp
 //Overload operators + and << for the class complex
 //+ should add two complex numbers as (a+ib) + (c+id) = (a+c) + i(b+d)
 //<< should print a complex number in the format "a+ib"
@@ -378,10 +367,11 @@ Complex operator+(const Complex &a, const Complex &b){
 ostream& operator<<(ostream& out,const Complex &c) {
 		return out << c.a << "+i" << c.b;
     }
-
+```
 
 Virtual Functions
 
+```cpp
 static int idProf = 0;
 static int idStud = 0;
 
@@ -449,11 +439,12 @@ class Student : public Person {
             cout << sum << " " << id << endl;        
         }         
 };
+```
 
 Strings
 
 Strings
-
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -480,10 +471,10 @@ int main() {
     
     return 0;
 }
-
+```
 
 Stringstream
-
+```cpp
 #include <sstream>
 #include <vector>
 #include <iostream>
@@ -512,7 +503,7 @@ int main() {
     
     return 0;
 }
-
+```
 
 Classes
 
