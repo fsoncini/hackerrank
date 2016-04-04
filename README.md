@@ -19,7 +19,7 @@ The goal was to achieve 400 points and I reached that in the C++ section, and ad
 
 ###Introduction
 
-##Hello, World !##
+####Hello, World !
 
 ```cpp
 #include <iostream>
@@ -56,7 +56,7 @@ int main() {
 }
 ```
 
-Basic Data Types
+####Basic Data Types
 ```cpp
 #include <iostream>
 #include <cstdio>
@@ -79,7 +79,7 @@ int main() {
 }
 ```
 
-Conditional Statements
+####Conditional Statements
 
 ```cpp
 #include <cmath>
@@ -131,7 +131,7 @@ int main() {
 }
 ```
 
-For Loop
+####For Loop
 
 ```cpp
 #include <iostream>
@@ -191,7 +191,7 @@ int main() {
 }
 ```
 
-Functions
+####Functions
 
 ```cpp
 #include <iostream>
@@ -231,7 +231,7 @@ int main() {
 }
 ```
 
-Pointer
+####Pointer
 
 ```cpp
 #include <stdio.h>
@@ -265,7 +265,7 @@ int main() {
 ```
 
 
-Arrays Introduction
+####Arrays Introduction
 
 ```cpp
 #include <cmath>
@@ -297,7 +297,7 @@ int main() {
 }
 
 ```
-Operator Overloading
+####Operator Overloading
 
 ```cpp
 class Matrix {
@@ -316,7 +316,7 @@ class Matrix {
 };
 ```
 
-Variable Sized Arrays
+####Variable Sized Arrays
 
 ```cpp
     //number of integer sequences
@@ -349,7 +349,7 @@ Variable Sized Arrays
 
 }    
 ```
-Overload Operators
+####Overload Operators
 
 ```cpp
 //Overload operators + and << for the class complex
@@ -367,7 +367,7 @@ ostream& operator<<(ostream& out,const Complex &c) {
     }
 ```
 
-Virtual Functions
+####Virtual Functions
 
 ```cpp
 static int idProf = 0;
@@ -441,7 +441,7 @@ class Student : public Person {
 
 Strings
 
-Strings
+####Strings
 ```cpp
 #include <iostream>
 #include <string>
@@ -471,7 +471,7 @@ int main() {
 }
 ```
 
-Stringstream
+####Stringstream
 ```cpp
 #include <sstream>
 #include <vector>
@@ -503,9 +503,9 @@ int main() {
 }
 ```
 
-Classes
+###Classes
 
-Structs
+####Structs
 
 #include <cmath>
 #include <cstdio>
@@ -534,7 +534,7 @@ int main() {
 }
 
 
-Class
+####Class
 
 #include <iostream>
 #include <sstream>
@@ -609,7 +609,7 @@ int main() {
     return 0;
 }
 
-Classes and Objects
+####Classes and Objects
 
 // Write your Student class here
 class Student {
@@ -644,8 +644,7 @@ public:
     }
 };
 
-Box it!
-
+####Box it!
 
 //Implement the class Box  
 //l,b,h are integers representing the dimensions of the box
@@ -731,9 +730,7 @@ ostream& operator<<(ostream& out, const Box b) {
 //Overload operator << as specified
 //ostream& operator<<(ostream& out, Box B)
 
-
-
-Vector-Sort
+####Vector-Sort
 
 #include <cmath>
 #include <cstdio>
@@ -762,7 +759,7 @@ int main() {
     return 0;
 }
 
-Vector-Erase
+####Vector-Erase
 
 #include <cmath>
 #include <cstdio>
@@ -803,9 +800,9 @@ int main() {
     return 0;
 }
 
-Inheritance
+###Inheritance
 
-Inheritance Introduction
+####Inheritance Introduction
 
 #include <cmath>
 #include <cstdio>
@@ -840,8 +837,7 @@ int main(){
 }
 
 
-
-Rectangle Area
+####Rectangle Area
 
 class Rectangle {
     protected:
@@ -866,7 +862,7 @@ class RectangleArea : public Rectangle {
 };
 
 
-Multi Level Inheritance
+####Multi Level Inheritance
 
 
 #include <cmath>
@@ -909,7 +905,7 @@ int main(){
     return 0;
 }
 
-Accessing Inherited Functions
+####Accessing Inherited Functions
 
 class D : public A,B,C
 {
@@ -936,12 +932,11 @@ class D : public A,B,C
 };
 
 
+##ALGORITHMS CHALLENGES
 
-ALGORITHMS CHALLENGES
+###Warmup
 
-Warmup
-
-Solve Me First
+####Solve Me First
 
 #include <cmath>
 #include <cstdio>
@@ -965,7 +960,7 @@ int main() {
   return 0;
 }
 
-Simple Array Sum
+####Simple Array Sum
 
 #include <cmath>
 #include <cstdio>
@@ -988,7 +983,7 @@ int main(){
     return 0;
 }
 
-A Very Big Sum
+####A Very Big Sum
 
 #include <cmath>
 #include <cstdio>
@@ -1011,9 +1006,9 @@ int main(){
 }
 
 
-Implementation
+###Implementation
 
-Angry Professor
+####Angry Professor
 
 #include <cmath>
 #include <cstdio>
@@ -1051,7 +1046,7 @@ int main(){
     return 0;
 }
 
-Sherlock and the Beast
+####Sherlock and the Beast
 
 #include <cmath>
 #include <cstdio>
