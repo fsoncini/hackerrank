@@ -33,9 +33,7 @@ int main() {
 ```
 
 
-
-
-Input and Output
+###Input and Output
 ```cpp
 #include <cmath>
 #include <cstdio>
