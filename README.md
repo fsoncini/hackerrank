@@ -17,7 +17,7 @@ The goal was to achieve 400 points and I reached that in the C++ section, and ad
 
 ##C++ CHALLENGES 
 
-Introduction
+###Introduction
 
 ###Hello, World !###
 
