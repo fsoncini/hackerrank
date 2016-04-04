@@ -33,7 +33,7 @@ int main() {
 ```
 
 
-###Input and Output
+####Input and Output
 ```cpp
 #include <cmath>
 #include <cstdio>
@@ -506,7 +506,7 @@ int main() {
 ###Classes
 
 ####Structs
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -532,10 +532,10 @@ int main() {
     
     return 0;
 }
-
+```
 
 ####Class
-
+```cpp
 #include <iostream>
 #include <sstream>
 using namespace std;
@@ -608,9 +608,9 @@ int main() {
     
     return 0;
 }
-
+```
 ####Classes and Objects
-
+```cpp
 // Write your Student class here
 class Student {
     private:              
@@ -627,10 +627,10 @@ class Student {
             return total;
     }
 };
-
+```
 
 C++ Class Templates
-
+```cpp
 template<class T>
 class AddElements{
 	T e;
@@ -643,9 +643,9 @@ public:
         return e+a;
     }
 };
-
+```
 ####Box it!
-
+```cpp
 //Implement the class Box  
 //l,b,h are integers representing the dimensions of the box
 class Box {
@@ -729,9 +729,9 @@ ostream& operator<<(ostream& out, const Box b) {
 
 //Overload operator << as specified
 //ostream& operator<<(ostream& out, Box B)
-
+```
 ####Vector-Sort
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -758,9 +758,9 @@ int main() {
    
     return 0;
 }
-
+```
 ####Vector-Erase
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -799,11 +799,11 @@ int main() {
     
     return 0;
 }
-
+```
 ###Inheritance
 
 ####Inheritance Introduction
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -835,10 +835,10 @@ int main(){
     isc.triangle();
     return 0;
 }
-
+```
 
 ####Rectangle Area
-
+```cpp
 class Rectangle {
     protected:
         int w = 0;
@@ -860,11 +860,11 @@ class RectangleArea : public Rectangle {
         cout << w*h <<endl;
     }
 };
-
+```
 
 ####Multi Level Inheritance
 
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -904,9 +904,9 @@ int main(){
     eqr.triangle();
     return 0;
 }
-
+```
 ####Accessing Inherited Functions
-
+```cpp
 class D : public A,B,C
 {
 	int val;
@@ -930,14 +930,14 @@ class D : public A,B,C
 		//For Checking Purpose
 		void check(int); //Do not delete this line.
 };
-
+```
 
 ##ALGORITHMS CHALLENGES
 
 ###Warmup
 
 ####Solve Me First
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -959,9 +959,9 @@ int main() {
   cout<<sum;
   return 0;
 }
-
+```
 ####Simple Array Sum
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -982,9 +982,9 @@ int main(){
     cout << sum;
     return 0;
 }
-
+```
 ####A Very Big Sum
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -1004,12 +1004,12 @@ int main(){
     cout << sum;
     return 0;
 }
-
+```
 
 ###Implementation
 
 ####Angry Professor
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -1045,9 +1045,9 @@ int main(){
     
     return 0;
 }
-
+```
 ####Sherlock and the Beast
-
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -1081,4 +1081,4 @@ int main(){
     }
     return 0;
 }
-
+```
