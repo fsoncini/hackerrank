@@ -19,7 +19,7 @@ The goal was to achieve 400 points and I reached that in the C++ section, and ad
 
 ###Introduction
 
-####Hello, World !
+##Hello, World !##
 
 ```cpp
 #include <iostream>
