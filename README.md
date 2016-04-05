@@ -1,6 +1,9 @@
 # Advanced Game Programming 1
 ## Hackerrank challenges
 
+
+The goal of the assignment was to achieve 400 points and I reached that in the C++ section, and added 120 on the algorithms section.
+
 Given that my background is not in computer science I have worked hard on solidifying my fundamentals in C++.
 I’ve tackled most of the challenges in the introduction section, ranging from simple conditional statements to pointers and overloaded functions.
 Of particular interest was the Classes section, where I went through exercise that related to constructors, virtual functions, and virtual constructors. 
@@ -8,7 +11,7 @@ I have also became more knowledgable with notions of inheritance, multi level in
 
 The algorithms sections was a bit more challenging.
 
-The goal was to achieve 400 points and I reached that in the C++ section, and added 120 on the algorithms section.
+
 
 
 
