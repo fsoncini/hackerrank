@@ -9,7 +9,9 @@ I’ve tackled most of the challenges in the introduction section, ranging from 
 Of particular interest was the Classes section, where I went through exercise that related to constructors, virtual functions, and virtual constructors. 
 I have also became more knowledgable with notions of inheritance, multi level inheritance and accessing inherited functions.
 
-The algorithms sections was a bit more challenging.
+The algorithms sections was a bit more challenging, but I did implement a few that included some non trivial maths. 
+All and all I wish to continue on this path and tackle ever more challening problems.
+In particular I want grow increase my familiarity with
 
 
 
