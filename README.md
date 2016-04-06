@@ -6,11 +6,15 @@ The goal of the assignment was to achieve 400 points and I reached that in the C
 Link to account: https://www.hackerrank.com/fsonc
 
 Given that my background is not in computer science I have worked hard on solidifying my fundamentals in C++, the cornestone of video game programming.
+
 I’ve tackled most of the challenges in all the sections, ranging from simple conditional statements to pointers and overloaded functions, to inheritance. In these sections I had the chance to dip my toes in the Standard Template Library, which is a solid foundation for C++ programmers. 
 Of particular interest were the challenges in the Classes section, which I found it very useful in furthering my understanding of object oriented programming. Still relating to that, I have had the chance to try out challenges to verify the notions of inheritance, multi level inheritance and accessing inherited functions.
+
 The algorithms sections was a bit more challenging, but I did implement a few that included some non trivial maths. 
+
 All and all I wish to continue on this path and tackle ever more challening problems in the Algorithm implementations section, now that I have strengthened my C++ and object oriented programming skills.
 In particular I want increase my understanding of the more widely used sorting algorithms, and later on work on maximizing efficiency and performance of implementations.
+
 Besides online tutorial and resources, I have used several texts of reference during this assignment. Particularly useful were "C++ Primer" (Lippman, Lajoie, Moo), "A Tour of C++" (Stroustroup) and "Programming: Principles and Practice Using C++" (Stroustroup). I have also studied the basic sorting algorithms implementations of "Introduction to Algorithms" (Cormen, Leiserson, Rivest, Stein), and plan to dig deeper on that in the coming months. 
 
 
