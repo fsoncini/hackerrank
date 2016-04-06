@@ -5,14 +5,13 @@
 The goal of the assignment was to achieve 400 points and I reached that in the C++ section, and added 120 on the algorithms section.
 Link to account: https://www.hackerrank.com/fsonc
 
-Given that my background is not in computer science I have worked hard on solidifying my fundamentals in C++.
-I’ve tackled most of the challenges in the introduction section, ranging from simple conditional statements to pointers and overloaded functions.
-Of particular interest was the Classes section, where I went through exercise that related to constructors, virtual functions, and virtual constructors. 
-I have also became more knowledgable with notions of inheritance, multi level inheritance and accessing inherited functions.
+Given that my background is not in computer science I have worked hard on solidifying my fundamentals in C++, the cornestone of video game programming.
+I’ve tackled most of the challenges in all the sections, ranging from simple conditional statements to pointers and overloaded functions, to inheritance. In these sections I had the chance to dip my toes in the Standard Template Library, which is a solid foundation for C++ programmers. 
+Of particular interest were the challenges in the Classes section, which I found it very useful in furthering my understanding of object oriented programming. Still relating to that, I have had the chance to try out challenges to verify the notions of inheritance, multi level inheritance and accessing inherited functions.
 The algorithms sections was a bit more challenging, but I did implement a few that included some non trivial maths. 
-All and all I wish to continue on this path and tackle ever more challening problems.
-In particular I want grow increase my familiarity with sorting algorithms, and later on work on maximizing efficiency thereof. 
-Through these exercises I had the chance to dip my toes in the Standard Template Library, which is a solid foundation for C++ programmers. 
+All and all I wish to continue on this path and tackle ever more challening problems in the Algorithm implementations section, not that I have strengthened my C++ and object oriented programming skills.
+In particular I want increase my understanding of the more widely used sorting algorithms, and later on work on maximizing efficiency and performance of implementations.
+
 
 
 
