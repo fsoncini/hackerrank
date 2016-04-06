@@ -8,11 +8,10 @@ Given that my background is not in computer science I have worked hard on solidi
 I’ve tackled most of the challenges in the introduction section, ranging from simple conditional statements to pointers and overloaded functions.
 Of particular interest was the Classes section, where I went through exercise that related to constructors, virtual functions, and virtual constructors. 
 I have also became more knowledgable with notions of inheritance, multi level inheritance and accessing inherited functions.
-
 The algorithms sections was a bit more challenging, but I did implement a few that included some non trivial maths. 
 All and all I wish to continue on this path and tackle ever more challening problems.
-In particular I want grow increase my familiarity with
-
+In particular I want grow increase my familiarity with sorting algorithms, and later on work on maximizing efficiency thereof. 
+Through these exercises I had the chance to dip my toes in the Standard Template Library, which is a solid foundation for C++ programmers. 
 
 
 
