@@ -3,6 +3,7 @@
 
 
 The goal of the assignment was to achieve 400 points and I reached that in the C++ section, and added 120 on the algorithms section.
+Link to account: https://www.hackerrank.com/fsonc
 
 Given that my background is not in computer science I have worked hard on solidifying my fundamentals in C++.
 I’ve tackled most of the challenges in the introduction section, ranging from simple conditional statements to pointers and overloaded functions.
